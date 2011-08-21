@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Sencha-PhoneGap:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sencha_PhoneGap_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Sencha-PhoneGap/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Sencha-PhoneGap" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
